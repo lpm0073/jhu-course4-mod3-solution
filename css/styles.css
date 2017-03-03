@@ -77,7 +77,7 @@ body {
 }
 
 #menu-tile {
-  height: 750px;
+  height: 500px;
   width: 100%;
   margin-bottom: 15px;
   margin-top:50px;
@@ -87,8 +87,9 @@ body {
   color: black;
 }
 #menu-tile:hover {
-  box-shadow: 0 1px 5px 1px #cccccc;
+#  box-shadow: 0 1px 5px 1px #cccccc;
 }
+
 #menu-tile {
   background-color: gray;
   background-position: center;
